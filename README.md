@@ -16,6 +16,6 @@
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
 
 
-![Bauk's GitHub stats](https://github-readme-stats.vercel.app/api?username=bauk17&show_icons=true&theme=merko)
+
 
 
