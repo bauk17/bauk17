@@ -16,6 +16,7 @@
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
 
 
-### Projeto pessoal em desenvolvimento.
+### Projetos pessoais em desenvolvimento.
 
 [Dopaminergic To-do](https://todo-client-tan.vercel.app)
+[Delivery Rest API](https://github.com/bauk17/delivery)
