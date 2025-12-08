@@ -1,5 +1,10 @@
 ## Olá! Meu nome é Cauã Pereira 👋
 
+
+## Link para o meu portfólio
+
+[Portfólio Cauã Pereira](https://bauk17.github.io/portfolio/)
+
 ### Tecnologias que utilizo: 
 
 [![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
