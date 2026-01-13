@@ -23,6 +23,5 @@
 
 ### Projetos pessoais em desenvolvimento.
 
-[Dopaminergic To-do](https://github.com/bauk17/todo-server)
+[PomoDoList](https://github.com/bauk17/pomoDoList-client)
 
-[Delivery Rest API](https://github.com/bauk17/delivery)
