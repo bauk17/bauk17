@@ -23,5 +23,5 @@
 
 ### Projetos pessoais em desenvolvimento.
 
-[PomoDoList](https://github.com/bauk17/pomoDoList-client)
+[PomoDoList](https://pomodolist.online/)
 
